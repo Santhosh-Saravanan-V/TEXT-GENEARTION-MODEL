@@ -95,14 +95,19 @@ This project is ideal for students, researchers, and enthusiasts who want to exp
 
 ### *Example*
 #### Input:
-- Prompt: "Artificial intelligence is transforming industries by"
+- Prompt: " Book is the greatest resource for knowledge"
 
 #### Output:
-plaintext
+plaintext:  Book is the greatest resource for knowledge
+
 Generated Text:
-Artificial intelligence is transforming industries by automating processes, analyzing data, and enabling smarter decision-making. With advancements in machine learning and deep learning, AI is poised to revolutionize...
+Book is the greatest resource for knowledge about the English language, in particular, and its English words. It serves as an easy, accessible and reliable source that should be at the forefront of any student's library collection.
 
 - Saved Output: generated_text.txt
+
+- #### Screenshot:
+- ![Screenshot 2025-01-16 080910](https://github.com/user-attachments/assets/135f2e95-e7c6-4e7c-bd6f-b3fa1c13284a)
+
 
 ---
 
